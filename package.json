@@ -1,6 +1,6 @@
 {
   "name": "karma-jade-preprocessor",
-  "version": "0.0.8",
+  "version": "0.0.12",
   "description": "A Karma plugin. Compile jade template on the fly.",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,10 @@
     "jade"
   ],
   "author": "Jeremy Williams<jeremy@ojdx.com>",
+  "contributors": [
+    "David Souther <davidsouther@gmail.com>",
+    "Patrick Winters <https://github.com/pcw216>"
+  ],
   "dependencies": {
     "jade": "~1.0"
   },
