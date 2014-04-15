@@ -18,7 +18,7 @@
   "author": "Jeremy Williams<jeremy@ojdx.com>",
   "contributors": [
     "David Souther <davidsouther@gmail.com>",
-    "Patrick Winters <https://github.com/pcw216>"
+    "Patrick Winters (https://github.com/pcw216)"
   ],
   "dependencies": {
     "jade": "~1.0"
